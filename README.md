@@ -1,10 +1,11 @@
 # Postest 1 Praktikum PBO | Sistem penyewaan gedung
 
 Nama : Alvionej Resna Lawrend Pandiangan
+
 NIM  : 2409116073
 
 ## Deskripsi Program
-Program Sistem Penyewaan Gedung merupakan aplikasi sederhana yang meniru fungsi dasar dari sistem pengelolaan penyewaan gedung serbaguna. Program ini memungkinkan pengguna untuk melakukan operasi dasar seperti menambahkan data penyewaan gedung oleh penyewa, menampilkan daftar penyewaan yang telah tercatat, mengubah data penyewaan yang sudah ada, serta menghapus data penyewaan dari sistem. Setiap data penyewaan berisi informasi seperti nama penyewa, jenis kegiatan, tanggal penyewaan, dan lama sewa dalam hitungan hari. Program ini dibuat menggunakan bahasa pemrograman Java
+Program Sistem Penyewaan Gedung merupakan aplikasi sederhana yang meniru fungsi dasar dari sistem pengelolaan penyewaan gedung serbaguna. Program ini memungkinkan user untuk melakukan operasi dasar seperti menambahkan data penyewaan gedung, menampilkan daftar penyewaan yang telah tercatat, mengubah data penyewaan yang sudah ada, serta menghapus data penyewaan dari sistem. Setiap data penyewaan berisi informasi seperti nama penyewa, jenis kegiatan, tanggal penyewaan, dan lama sewa dalam hitungan hari. Program ini dibuat menggunakan bahasa pemrograman Java
 
 # Output Program
 
