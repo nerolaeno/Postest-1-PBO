@@ -19,7 +19,7 @@ Pada saat User pertama kali menjalankan program dan masuk ke program, User akan 
 ### Tambah Penyewaan (Create)
 <img width="400" height="212" alt="image" src="https://github.com/user-attachments/assets/9c539296-2903-4ac6-98e3-8319c03b5bee" />
 
-User dapat menambahkan data penyewaan baru untuk penyewa baru dengan menyertakan ID penyewaan, nama penyewa, jenis kegiatan, tanggal penyewaan, dan lama sewa awal.
+User dapat menambahkan data penyewaan baru untuk penyewa baru dengan menyertakan nama penyewa, jenis kegiatan, tanggal penyewaan, dan lama sewa awal.
 
 
 
