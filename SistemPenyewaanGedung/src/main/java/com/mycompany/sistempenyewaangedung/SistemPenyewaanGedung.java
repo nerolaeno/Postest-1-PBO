@@ -96,10 +96,6 @@ public class SistemPenyewaanGedung {
         for (int i = 0; i < daftarPenyewaan.size(); i++) {
             String[] data = daftarPenyewaan.get(i);
             if (data[0].equals(id)) {
-                System.out.print("Nama Penyewa Baru: ");
-                data[1] = input.nextLine();
-                System.out.println("Jenis Kegiatan Baru: ");
-                data[2] = input.nextLine();
                 System.out.print("Tanggal Sewa Baru (DD-MM-YYYY): ");
                 data[3] = input.nextLine();
                 System.out.print("Lama Sewa Baru (hari): ");
